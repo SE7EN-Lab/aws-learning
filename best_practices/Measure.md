@@ -1,0 +1,5 @@
+- Measure your infrastructure at three levels to figure out relationships between causes and effects - Application, Network, System.
+- Define metrics for all the components of your infrastructure.
+- Set operational targets for services/applications.
+- Setup Alarms and escalation path once the measurments are in place.
+- Test the alarms and make the response channel highly available too.

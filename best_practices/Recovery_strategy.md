@@ -1,0 +1,3 @@
+- Embrace failures and chaos engineering methodologies.
+- Limit the blast radius of infrastructure.
+- Implement mechanism to preserve data by peforming backups on regualar basis and Test your backup by launching recoveries from your backup.
